@@ -20,7 +20,7 @@ Bots are able to process inputs and requests in ways that user accounts can’t,
   <li>Bots don’t have ‘last seen’ or online statuses – instead they show a ‘bot’ label in the chat.
   <li>Bots have limited cloud storage – older messages may be removed by the server shortly after they have been processed.
   <li>Bots can't start conversations with users. A user must either add them to a group or send them a message first. People can search for your bot’s username or start a chat via its unique t.me/bot_username link.
-  <li>By default, bots added to groups only see relevant messages in the chat (see <a href="https://core.telegram.org/bots/features#privacy-mode">Privacy Mode</a>]).
+  <li>By default, bots added to groups only see relevant messages in the chat (see <a href="https://core.telegram.org/bots/features#privacy-mode">Privacy Mode</a>).
   <li>Bots never eat, sleep or complain (unless expressly programmed otherwise).
 </ul>
 
