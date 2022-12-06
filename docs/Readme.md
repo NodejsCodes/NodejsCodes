@@ -2,7 +2,7 @@
 <h3>Here are the docs in this folder. Navigate through them and learn !</h3>
 Example Bots 🤖 : <a href="https://github.com/NodejsCodes/NodejsCodes/example">Here</a>
 
-[![Stars](https://img.shields.io/github/stars/NodejsCodes/NodejsCodes?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
+[![Stars](https://img.shields.io/github/stars/NodejsCodes/NodejsCodes?style=flat-square&color=yellow)](https://github.com/NodejsCodes/NodejsCodes/stargazers)
 <br>
 # Introduction to Bots
 Bots are small applications that run entirely within the Telegram app. Users interact with bots through flexible interfaces that can support any kind of task or service.
